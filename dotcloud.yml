@@ -1,2 +1,4 @@
 www:
-  type: static
+  type: php
+db:
+  type: mysql
